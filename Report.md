@@ -5,8 +5,8 @@
 
 На тестирование затрачено: 1 час.
 В результате тестирования выявлены следующие дефекты:
-* [Issues #1](https://github.com/Slaywerz/Key-Validator/issues/1)
-* [Issues #2](https://github.com/Slaywerz/Key-Validator/issues/2)
+* [Валидные ключи не проходят валидацию](https://github.com/Slaywerz/Key-Validator/issues/1)
+* [Не валидные ключи проходят валидацию](https://github.com/Slaywerz/Key-Validator/issues/2)
 
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
